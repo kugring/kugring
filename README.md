@@ -19,9 +19,7 @@ Here are some ideas to get you started:
 <div align='center'>💻간절하게 개발하는 개발자 임재혁입니다.</div>
 <br>
 <div align='center'> ✉Email : <a href="mailto:wogur8243@naver.com">nocdu112@naver.com</a></div>
-<div align='center'> 🔗Notion : <a href="https://abounding-clownfish-456.notion.site/9589212dfdac4f8ea36e97dcd79f44d3">노션링크</a></div>
-<div align='center'> 🌐Blog : <a href="https://nocdu112.tistory.com/">블로그</a></div>
-<br>
+<div align='center'> 🔗Notion : <a href="https://metal-cuticle-9d5.notion.site/56df904515b14646a8ab3492deeefe25?pvs=4">노션링크</a></div>
 <br>
 <br>
 
@@ -48,10 +46,10 @@ OpenJDK&logoColor=white"/></a>&nbsp
 </p>
 <br>
 
-<h3 align="center">🌈 Follow Me 🌈</h3>
+<!-- <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
   <a href="https://metal-cuticle-9d5.notion.site/56df904515b14646a8ab3492deeefe25?pvs=4"><img src="https://img.shields.io/badge/Notion-ffffff?style=flat&logo=Notion&logoColor=black"></a>&nbsp
-
+ -->
 
 
   
