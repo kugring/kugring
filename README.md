@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <br>
 <div align='center'>💻간절하게 개발하는 개발자 임재혁입니다.</div>
 <br>
-<div align='center'> ✉Email : <a href="mailto:wogur8243@naver.com">nocdu112@naver.com</a></div>
+<div align='center'> ✉Email : <a href="mailto:wogur8243@naver.com">wogur8243@naver.com</a></div>
 <div align='center'> 🔗Notion : <a href="https://metal-cuticle-9d5.notion.site/56df904515b14646a8ab3492deeefe25?pvs=4">노션링크</a></div>
 <br>
 <br>
