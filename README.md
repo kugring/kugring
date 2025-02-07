@@ -34,21 +34,25 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS"><br>
+<br>
   
   <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat&logo=reactquery&logoColor=white">
   <img src="https://img.shields.io/badge/zustand-000000?style=flat&logo=zustand&logoColor=white">
   <img src="https://img.shields.io/badge/axios-5A29E4?style=flat&logo=axios&logoColor=white">
   <img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=nodedotjs&logoColor=white">
+<br>
   
   <img src="https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white" alt="Django">
   <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=mysql&logoColor=white">
+<br>
   
   <img src="https://img.shields.io/badge/aws-232F3E?style=flat&logo=amazonaws&logoColor=white">
   <img src="https://img.shields.io/badge/ec2-FF9900?style=flat&logo=amazonec2&logoColor=white">
   <img src="https://img.shields.io/badge/s3-569A31?style=flat&logo=amazons3&logoColor=white">
   <img src="https://img.shields.io/badge/nginx-009639?style=flat&logo=nginx&logoColor=white">
+<br>
   
   <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-ffffff?style=flat&logo=Notion&logoColor=black">
